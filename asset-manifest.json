@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/backupEzrental/static/css/main.c07de54c.css",
+    "main.js": "/backupEzrental/static/js/main.347dda6b.js",
+    "index.html": "/backupEzrental/index.html",
+    "main.c07de54c.css.map": "/backupEzrental/static/css/main.c07de54c.css.map",
+    "main.347dda6b.js.map": "/backupEzrental/static/js/main.347dda6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c07de54c.css",
+    "static/js/main.347dda6b.js"
+  ]
+}
